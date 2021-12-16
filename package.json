@@ -1,0 +1,25 @@
+{
+  "name": "universidad-api",
+  "version": "1.0.0",
+  "description": "Proyecto de aula desarrollo-web ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianaph6/Practica_Backend-5to-Semestre.git"
+  },
+  "author": "mariana-palacios-hinestroza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marianaph6/Practica_Backend-5to-Semestre/issues"
+  },
+  "homepage": "https://github.com/marianaph6/Practica_Backend-5to-Semestre#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemailer": "^6.5.0",
+    "pg": "^8.6.0"
+  }
+}
